@@ -1,2 +1,4 @@
-# EdgeComputing-CP1
-Descrição do nosso projeto em Edge Computing &amp; Computer Systems
+# Checkpoint 1
+- Nesse arquivo README.MD, serão descritos todas os passos, processos, e eplicações para a formulação e entrega do nosso primeiro checkpoint
+
+### Imagem projeto:
