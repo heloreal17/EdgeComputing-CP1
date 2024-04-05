@@ -1,5 +1,6 @@
 # Checkpoint 1
 - Nesse arquivo README.MD, serão descritos todas os passos, processos, e eplicações para a formulação e entrega do nosso primeiro checkpoint
+- *Link para arquino no Thinkercad: [CLIQUE AQUI PARA ACESSAR](https://www.tinkercad.com/things/iMDklFcZeOA-projeto-cp1)*
 
 ### Imagem final do projeto:
 <img align="center" src="Imagem-Projeto.png">
