@@ -5,22 +5,22 @@
 <img align="center" src="Imagem-Projeto.png">
 
 ## Materiais utilizados: 
-1. 1 Placa Arduino (como Arduino Uno, Arduino Nano, etc.)
-2. 1 Sensor de Luz (LDR) - Para detectar a intensidade da luz.
-3. 1 Buzzer/Piezo - Para gerar o som do alarme.
-- LEDs:
-1. 1 LED verde conectado ao pino 11 do Arduino.
-2. 1 LED amarelo conectado ao pino 12 do Arduino.
-3. 1 LED vermelho conectado ao pino 13 do Arduino.
-- Resistores:
-1. Um resistor para o LDR (para formar um divisor de tensão).
-2. 3 Resistores para limitar a corrente dos LEDs.
-3. Jumpers/Cabos - Para fazer as conexões entre os componentes e o Arduino.
-- Dependências:
-1. Arduino IDE: Você precisará do software Arduino IDE instalado em seu computador para programar a placa Arduino.
-2. Arduino IDE Download
-Conexões:
+   - Uma Placa Arduino (como Arduino Uno, Arduino Nano, etc.)
+   - Um Sensor de Luz (LDR) - Para detectar a intensidade da luz.
+   - Um Buzzer/Piezo - Para gerar o som do alarme.
+  ### LEDs:
+   - Um LED verde conectado ao pino 11 do Arduino.
+   - Um LED amarelo conectado ao pino 12 do Arduino.
+   - Um LED vermelho conectado ao pino 13 do Arduino.
+### Resistores:
+   - Um resistor para o LDR (para formar um divisor de tensão).
+   - Três Resistores para limitar a corrente dos LEDs.
+   - Jumpers/Cabos - Para fazer as conexões entre os componentes e o Arduino.
    
+### Dependências:
+1. Arduino IDE: Você precisará do software Arduino IDE instalado em seu computador para programar a placa Arduino.
+---
+
 ## O Código 
 - O código que criamos foi para realizar um programa para um microcontrolador, como um Arduino, que lê um sensor de luz (LDR) que pesquisamos sobre para desenvolver essa atividade, e ele irá controlar LEDs e um buzzer com base nos valores lidos. Aqui está uma descrição simples do que o código faz:
 
@@ -46,6 +46,7 @@ Conexões:
 
 7.  A função apagaLeds() é usada para apagar todos os LEDs de uma vez, definindo todos os LEDs como LOW.
 ---
+
 ## Como reproduzir
 - Separar todos os materiais utilizados.
 
@@ -66,10 +67,11 @@ Depois de conectar todos os componentes conforme descrito e ter a Arduino IDE in
 
 Uma vez carregado, você verá os valores lidos pelo LDR no Monitor Serial da Arduino IDE e os LEDs e o buzzer se comportarão conforme a intensidade da luz detectada pelo sensor LDR, teste pressionando o lrd e aumentanto e diminuindo.
 
-**Em um breve resumo, o código monitora a intensidade da luz usando um LDR. Se a luz for fraca (valor < 100), acende o LED verde. Se estiver em um nível intermediário (100 <= valor <= 200), acende o LED amarelo e toca um alarme por 3 segundos. Se a luz for forte (valor > 200), acende o LED vermelho. O valor lido pelo sensor é exibido no monitor serial.**
+---
+> **Em um breve resumo, o código monitora a intensidade da luz usando um LDR. Se a luz for fraca (valor < 100), acende o LED verde. Se estiver em um nível intermediário (100 <= valor <= 200), acende o LED amarelo e toca um alarme por 3 segundos. Se a luz for forte (valor > 200), acende o LED vermelho. O valor lido pelo sensor é exibido no monitor serial.**
 ---
 
-## ESPERAMOS QUE TENHA GOSTADO DO NOSSO PROJETO
+## ESPERAMOS QUE TENHA GOSTADO DO NOSSO PROJETO!!!
 ### Integrantes do grupo + RM:
 - Heloísa Real: 554535
 - Hellen Moura: 559008
