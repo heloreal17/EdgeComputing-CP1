@@ -72,6 +72,9 @@ Uma vez carregado, você verá os valores lidos pelo LDR no Monitor Serial da Ar
 > **Em um breve resumo, o código monitora a intensidade da luz usando um LDR. Se a luz for fraca (valor < 100), acende o LED verde. Se estiver em um nível intermediário (100 <= valor <= 200), acende o LED amarelo e toca um alarme por 3 segundos. Se a luz for forte (valor > 200), acende o LED vermelho. O valor lido pelo sensor é exibido no monitor serial.**
 ---
 
+## Imagens da realização prática:
+
+
 ## ESPERAMOS QUE TENHA GOSTADO DO NOSSO PROJETO!!!
 ### Integrantes do grupo + RM:
 - Heloísa Real: 554535
