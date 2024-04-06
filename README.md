@@ -73,6 +73,14 @@ Uma vez carregado, você verá os valores lidos pelo LDR no Monitor Serial da Ar
 ---
 
 ## Imagens da realização prática:
+### Led Vermelho
+<img align="center" src="ledvermelho.png">
+
+### Led Amarelo
+<img align="center" src="ledamarelo.png">
+
+### Led verde
+<img align="center" src="ledverde.png">
 
 
 ## ESPERAMOS QUE TENHA GOSTADO DO NOSSO PROJETO!!!
